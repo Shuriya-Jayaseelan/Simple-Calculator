@@ -1,2 +1,15 @@
-# Ignore the Virtual Environment Folder
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore Python virtual environments
 .venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Other common Python ignores
+*.log
+*.env
+*.sqlite3
+.DS_Store
